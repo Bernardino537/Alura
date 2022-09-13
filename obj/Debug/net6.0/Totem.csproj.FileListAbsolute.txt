@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\GIT\Alura\Totem\bin\Debug\net6.0\Totem.exe
+C:\Users\bruno\Desktop\GIT\Alura\Totem\bin\Debug\net6.0\Totem.deps.json
+C:\Users\bruno\Desktop\GIT\Alura\Totem\bin\Debug\net6.0\Totem.runtimeconfig.json
+C:\Users\bruno\Desktop\GIT\Alura\Totem\bin\Debug\net6.0\Totem.dll
+C:\Users\bruno\Desktop\GIT\Alura\Totem\bin\Debug\net6.0\Totem.pdb
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\Totem.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\Totem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\Totem.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\Totem.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\Totem.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\Totem.dll
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\refint\Totem.dll
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\Totem.pdb
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\Totem.genruntimeconfig.cache
+C:\Users\bruno\Desktop\GIT\Alura\Totem\obj\Debug\net6.0\ref\Totem.dll
